@@ -30,7 +30,7 @@
   "files": [
     "lib/generator"
   ],
-  "dependencies": {
+  "devDependencies": {
     "tape": "^4.2.0"
   }
 }
