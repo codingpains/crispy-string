@@ -1,0 +1,36 @@
+{
+  "name": "crispy-string",
+  "description": "Tool to create random string with a specific baseN charset.",
+  "version": "0.0.1",
+  "keywords": [
+    "string",
+    "base16",
+    "base32",
+    "base64",
+    "base10",
+    "random",
+    "id",
+    "unique"
+  ],
+  "scripts": {
+    "test": "tape ./test/test.js"
+  },
+  "homepage": "https://github.com/codingpains/crispy-string",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codingpains/crispy-string.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Gustavo Ortiz",
+    "email": "gustavo.ortiz.monroy@gmail.com",
+    "url": "http://medium.com/@codingpains"
+  },
+  "main": "./index.js",
+  "files": [
+    "lib/generator"
+  ],
+  "dependencies": {
+    "tape": "^4.2.0"
+  }
+}
