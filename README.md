@@ -1,4 +1,7 @@
 # Crispy String
+
+[![Build Status](https://travis-ci.org/codingpains/crispy-string.svg?branch=master)](https://travis-ci.org/codingpains/crispy-string)
+
 A simple tool that creates random base 10, 16, 32, 62 and 64 strings.
 Very useful to give random ids to objects or to give a unique filename to
 any uploaded file when you just want it to be unique and sanitized.
