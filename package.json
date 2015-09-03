@@ -1,7 +1,7 @@
 {
   "name": "crispy-string",
   "description": "Tool to create random string with a specific baseN charset.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [
     "string",
     "base16",
