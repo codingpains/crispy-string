@@ -27,9 +27,6 @@
     "url": "http://medium.com/@codingpains"
   },
   "main": "./index.js",
-  "files": [
-    "lib/generator"
-  ],
   "devDependencies": {
     "tape": "^4.2.0"
   }
